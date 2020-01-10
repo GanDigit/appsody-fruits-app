@@ -8,7 +8,7 @@ import java.util.Random;
 @RestController
 public class FruitsController {
 
-    String values[] = {"Apple","Orange","Mango","Banana","Kiwi","Grapes", "Guava", "Papaya", "Plums"};
+    String values[] = {"Apple","Orange","Mango","Banana","Kiwi","Grapes", "Guava", "Papaya", "Plumss"};
 
     @GetMapping("/")
     private String welcome() {
